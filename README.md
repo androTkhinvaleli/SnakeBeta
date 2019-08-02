@@ -1,1 +1,1 @@
-# SnakeBeta
+# Snake Game
